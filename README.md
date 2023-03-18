@@ -1,0 +1,1 @@
+A full stack Feed application with authentication and authorization using React as the frontend and Node REST API as the backend with MongoDB as the data store.
